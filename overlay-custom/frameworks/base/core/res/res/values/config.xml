@@ -20,7 +20,4 @@
 
     <!-- Whether device has screen with higher aspect ratio -->
     <bool name="config_haveHigherAspectRatioScreen">true</bool>
-
-    <!-- Nexus Launcher -->
-    <string name="config_recentsComponentName">com.google.android.apps.nexuslauncher/com.android.quickstep.RecentsActivity</string>
 </resources>

@@ -15,4 +15,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/nitrogen_chiron.mk
+    $(LOCAL_DIR)/full_chiron.mk
